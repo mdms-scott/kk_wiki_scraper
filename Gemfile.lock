@@ -22,6 +22,9 @@ GEM
       cliver (~> 0.3.1)
       multi_json (~> 1.0)
       websocket-driver (>= 0.2.0)
+    poltergeist-suppressor (0.0.1)
+      capybara
+      poltergeist
     rack (1.6.4)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -37,6 +40,7 @@ PLATFORMS
 DEPENDENCIES
   capybara
   poltergeist
+  poltergeist-suppressor
 
 BUNDLED WITH
    1.11.2
