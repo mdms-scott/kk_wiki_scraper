@@ -1,0 +1,48 @@
+{
+  "78": {
+    "name": "Hatsushimo",
+    "dialogue": {
+      "introduction": "Fourth ship of the Hatsuharu class, Hatsushimo. Everyone, I'm very pleased to meet you!",
+      "library_intro": "Fourth of the Hatsuharu-class destroyers, Hatsushimo. I was in lots of hard battles like the Operation AL, the Battle of the Komandorski Islands, the occupation of Kiska, the Battle of the Philippine Sea, Operation Hoku-Go and Ten-Ichi-Gō! I really did my best!",
+      "secretary1": "Yes, you can ask a question any time.",
+      "secretary2": "Preparations, complete.",
+      "secretary3": "A-Admiral? Oh, you fixed the angle of my torpedo tube? Thank you as always.",
+      "secretaryidle": "Hamakaze...Yahagi too, I wonder if they're okay...ah! Admiral! I'm just fine. I would save you too!",
+      "secretarymarried": "That did it!",
+      "wedding": "Kiska... Ah, I'm sorry! I'm not interested in romance right now... even so, will you wait for me...?",
+      "show_players_score": "It seems like there's a message for you, Admiral.",
+      "joining_a_fleet": "Hatsushimo, sortieing!",
+      "equipment1": "Yeah! Just right!",
+      "equipment2": "This is awesome! Thank you!",
+      "equipment3": "That did it!",
+      "expedition_selection": "That did it!",
+      "resource_collection": "That did it!",
+      "instant_repair": "That did it!",
+      "development": "That did it!",
+      "supply": "Yeah! Just right!",
+      "docking_minor_damage": "I'll take a break, just for a bit.",
+      "docking_moderate_damage": "With this, I'll be able to protect everyone again.",
+      "docking_complete": "A comrade has finished being repaired.",
+      "ship_construction": "Looks like a new comrade has been born.",
+      "return_from_sortie": "It seems the fleet's returned to base. Good work!",
+      "start_a_sortie": "Leave the battleship escorting to me!",
+      "battle_start": "Enemy spotted!",
+      "attack": "Watch this!",
+      "night_battle": "They really slack off near the end, you know?",
+      "night_attack": "I'll protect us!",
+      "artillery_spotting": "I'll protect us!",
+      "night_special_attack_modifier_cutin_at_night_combat": "I'll protect us!",
+      "support_expedition_team_arrival": "I'll protect us!",
+      "mvp": "Even if it's just one boat, just one man, if I can save them, then I'm satisfied.",
+      "minor_damaged1": "Kyaa!",
+      "minor_damaged2": "Unbelievable...",
+      "moderately_damaged": "Not...not yet. I won't sink...!",
+      "sunk": "Admiral...everyone...are you okay...? Then...it's fine...",
+      "new_year_2015": "It's a new year. Happy New Year! Hatsushimo will do her best this year! Yes!",
+      "second_anniversary_2015": "Today is a important day, isn't it? I want to celebrate in something like diamond formation. Eh? I shouldn't?",
+      "setsubun_2016": "Demons out! Luck in! Ei! Ahh, Teitoku?! I'm sorry; I'll clean this up."
+    },
+    "hourly": {
+    }
+  }
+}

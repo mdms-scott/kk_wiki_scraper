@@ -1,0 +1,48 @@
+{
+  "77": {
+    "name": "Wakaba",
+    "dialogue": {
+      "introduction": "Destroyer, Wakaba.",
+      "library_intro": "Third of the Hatsuharu-class, Wakaba. I participated in the Attu and Kiska Island exit operations. Yes, the Northern forces. Ah, be careful of heavy fog. It's easy to get hit. Especially 'Hatsushimo', you need to watch out for her.",
+      "secretary1": "Wakaba.",
+      "secretary2": "I'm able to deploy at any time.",
+      "secretary3": "Hm? This unbreakable Morse code, what is it's meaning?",
+      "secretaryidle": "Time is valuable. As we stay like this, situation will change. My body is tingling all over...",
+      "secretarymarried": "Even without sleep for 24 hours I'm okay.",
+      "wedding": "The miracle battle, Kiska! Kiss… ka? Hey, wait! Your face is too close!",
+      "show_players_score": "There appears to be a message.",
+      "joining_a_fleet": "Wakaba, launching.",
+      "equipment1": "Even without sleep for 24 hours I'm okay.",
+      "equipment2": "Again, do you want to soil that hand?",
+      "equipment3": "Improvements, helpful.",
+      "expedition_selection": "Improvements, helpful.",
+      "resource_collection": "Improvements, helpful.",
+      "instant_repair": "Improvements, helpful.",
+      "development": "Improvements, helpful.",
+      "supply": "Improvements, helpful.",
+      "docking_minor_damage": "Yes, you have my thanks.",
+      "docking_moderate_damage": "Repair, huh. That's not bad.",
+      "docking_complete": "A ship has returned from the repair.",
+      "ship_construction": "Ship construction complete.",
+      "return_from_sortie": "The fleet is back.",
+      "start_a_sortie": "Launching.",
+      "battle_start": "Enemy spotted to port.",
+      "attack": "I'm fine.",
+      "night_battle": "I've been waiting for this moment.",
+      "night_attack": "Have no fear.",
+      "artillery_spotting": "Have no fear.",
+      "night_special_attack_modifier_cutin_at_night_combat": "Have no fear.",
+      "support_expedition_team_arrival": "Have no fear.",
+      "mvp": "So, this is the miracle Kiska operation? What, I'm mistaken?",
+      "minor_damaged1": "Dang.",
+      "minor_damaged2": "Not bad...!",
+      "moderately_damaged": "It hurts... but, I don't mind...",
+      "sunk": "Wakaba. Is sunk. I... hate it.. a bit...",
+      "new_year_2015": "It's the new year, huh. I've been waiting for this moment. Admiral, I will be counting on you again this year. Yes, I'll be fine!",
+      "christmas_2015": "Christmas,huh.it's fine! If it's turkey and cake we've already bought them. It's fine!",
+      "setsubun_2016": "It's Setsubun? Should I throw this bean at the admiral? No, that's not right. Then what should I do?"
+    },
+    "hourly": {
+    }
+  }
+}

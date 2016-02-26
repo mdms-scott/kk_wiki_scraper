@@ -1,0 +1,48 @@
+{
+  "158": {
+    "name": "Sendai Kai Ni",
+    "dialogue": {
+      "introduction": "Sendai has arrived. Please leave the night battle to me.",
+      "library_intro": "I am the culmination of the 5500-ton light cruisers, the Sendai-class. I'll fully teach you the appeal of a mature light cruiser. Of course, it'll be with a night battle!",
+      "secretary1": "What? A night battle?",
+      "secretary2": "Come on, don't be so impatient. The night is long, you know?",
+      "secretary3": "Admiral, thanks for the hard work. You're tired from the constant night battles, right? Yeah, I understand!",
+      "secretaryidle": "Hm? I-It's not like I'm getting bored or anything, because I'm not! Really!",
+      "secretarymarried": "The night is great, yup. Ah! You're also pretty good, Admiral ♡ Tonight, shall we... night battle?",
+      "wedding": "Admiral, what's up? You're all red... O~ho, you wanna have a night battle with me?",
+      "show_players_score": "It looks like there's a letter for admiral!",
+      "joining_a_fleet": "Sendai, torpedo squadron, sortieing!",
+      "equipment1": "Ain't this good! It's great~ This kind of thing. I love it~♪",
+      "equipment2": "With this, I can go hard at night battles again.",
+      "equipment3": "Hurry, let's night battle~!",
+      "expedition_selection": "Hurry, let's night battle~!",
+      "resource_collection": "Hurry, let's night battle~!",
+      "instant_repair": "Hurry, let's night battle~!",
+      "development": "Hurry, let's night battle~!",
+      "supply": "Supplies are absolutely necessary for night battles!",
+      "docking_minor_damage": "Morning, huh... I'm going to rest for a little while.",
+      "docking_moderate_damage": "As expected, I'm dead tired... I'll just head into the docks for a bit, okay?",
+      "docking_complete": "A ship has finished repairing.",
+      "ship_construction": "A new ship has arrived.",
+      "return_from_sortie": "The fleet has returned. I wonder how the results are?",
+      "start_a_sortie": "You must night battle, okay? Promise?",
+      "battle_start": "Naval battle, ready! Goooo!",
+      "attack": "Charge!",
+      "night_battle": "Finally! My long-awaited night battle!",
+      "night_attack": "Now, night battle with me!",
+      "artillery_spotting": "Now, night battle with me!",
+      "night_special_attack_modifier_cutin_at_night_combat": "Now, night battle with me!",
+      "support_expedition_team_arrival": "Now, night battle with me!",
+      "mvp": "This is the expected outcome. It's fine, it's fine. You don't need to praise me so much.",
+      "minor_damaged1": "Hyaa!",
+      "minor_damaged2": "Now you've done it!",
+      "moderately_damaged": "Kyaa!",
+      "sunk": "I wanted to... go wild... at night some more....",
+      "rainy_season_2015": "Rainy Season huh? I don't like it because my outfit will rust. Well, whatever! I guess rain or no rain does not matter for night battles.",
+      "early_summer_2015": "Summertime! Hurray! The season for night battles! Admiral, let's night battle, night battle! Hurry and let's nightー baーttle!",
+      "fall_event_2015": "Sendai reporting in! I'll show you how the Third Torpedo Squadron fights!"
+    },
+    "hourly": {
+    }
+  }
+}

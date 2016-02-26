@@ -1,0 +1,47 @@
+{
+  "157": {
+    "name": "Ryuujou Kai Ni",
+    "dialogue": {
+      "introduction": "Light aircraft carrier, Ryuujou! Ain't my silhouette distinctive? But, launching carrier planes one-after-another makes me a proper carrier, ya know! You can count on me!",
+      "library_intro": "I'm a light aircraft carrier, but with a long record, ya' know?  Oh, that Fourth Fleet incident thing, off Iwate? That was tough. The waves made my bridge collapse... Man, I just couldn't believe it.",
+      "secretary1": "What is it~?",
+      "secretary2": "Ummm. You, don't touch me so much.",
+      "secretary3": "By the way, what was that earlier. Well, it's alright! Please help with the aircraft maintenence~",
+      "secretaryidle": "Ah~, what is this... I... ha..., I don't really mind. It's not like I'm bored?",
+      "secretarymarried": "Let's go try it!",
+      "wedding": "By the way...you, what do you think of me? Well, it's alright. I'm just a bit curious. Ahhh it's ok, it's ok! Sorry...",
+      "show_players_score": "Seeeems like something has arrived. I don't know what it is though.",
+      "joining_a_fleet": "Aircraft Carrier Task Force, headin' out!",
+      "equipment1": "Hoho~... Are you fussing over me? That makes me a liiiiittle bit happy~",
+      "equipment2": "Thanks! With this I won't lose to Akagi and Kaga, although that's impossible, a-ha-ha-ha-ha...",
+      "equipment3": "Let's go try it!",
+      "expedition_selection": "Let's go try it!",
+      "resource_collection": "Let's go try it!",
+      "instant_repair": "Let's go try it!",
+      "development": "Let's go try it!",
+      "supply": "Ho~ Supplies make me really happy.",
+      "docking_minor_damage": "Yeah... I'm gonna admit myself for a while...",
+      "docking_moderate_damage": "If I remain like this, battles are impossible anyway... I'm sorry, I'll take a rest. Something like, paid vacation?",
+      "docking_complete": "The boat is fully healed. What a relief!",
+      "ship_construction": "Ho~, it seems that a new ship has been created. Let's go see it!",
+      "return_from_sortie": "The fleet returned home, good work!",
+      "start_a_sortie": "Because I'm here, this is the main fleet!",
+      "battle_start": "Now then, split up! Attack squadron, sortie out!",
+      "air_battle": "This will not go like the Solomon Sea!",
+      "attack": "All you carrier aircraft! Get to work! Get to work!",
+      "night_battle": "Alright! I'll decide it with a single blow!",
+      "mvp": "I did it! I did it. I had a stellar performance, praise me! praise me!",
+      "minor_damaged1": "Aw crap!",
+      "minor_damaged2": "Ouch ouch! Fue...this is bad!",
+      "moderately_damaged": "Oh no~! I'm in a too much of a pinch!",
+      "sunk": "I'm... a little tired... sorry...",
+      "second_anniversary_2015": "Holy cow! It's a 2 years anniversary! Holy cow indeed!",
+      "midsummer_2015": "The midst of summer... My flight deck's so hot. It could fry an egg...",
+      "christmas_2015": "Commander, Murr' Christmas! It's muh Christmas getup, adorable, ain't it? Oh you've got the same idea? Here's a candy, for yer~",
+      "end_of_year_2015": "It's the year-end. Things are gettin' busy wit' all them things to do. First up, cleanin' the wagon!",
+      "new_year_2016": "Happy New Year, Commander. Much obliged to be on duty for them brand new year."
+    },
+    "hourly": {
+    }
+  }
+}

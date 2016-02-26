@@ -1,0 +1,44 @@
+{
+  "54": {
+    "name": "Aoba",
+    "dialogue": {
+      "introduction": "Hi, thanks for your time, I'm Aoba! Please can I have some words!",
+      "library_intro": "I'm Aoba. Advancing into the Truk Islands area, I supported the Pacific Front. With a war correspondent on board, the staff also had reporting as part of their job. At my last moment, I was at Kure. Even without fuel, I did my best!",
+      "secretary1": "Whatwhat? Got a story?",
+      "secretary2": "Commander, I saw it!",
+      "secretary3": "Are you interested? I've got some good news, you know?",
+      "secretarymarried": "Sorry to trouble you!",
+      "wedding": "Aoba, all she really wants to do is look at the Commander rather than the enemy… J-just kidding!",
+      "show_players_score": "Some news? What is it, what is iiiit?",
+      "joining_a_fleet": "Aoba covering... Ah, no, launching!",
+      "equipment1": "Okay! I can work better now!",
+      "equipment2": "This'll let me do so much more reporting... ah, no, make fighting easer.",
+      "equipment3": "How kind of you!",
+      "expedition_selection": "How kind of you!",
+      "resource_collection": "How kind of you!",
+      "instant_repair": "How kind of you!",
+      "development": "How kind of you!",
+      "supply": "Okay! I can work better now!",
+      "docking_minor_damage": "I just can't keep still...",
+      "docking_moderate_damage": "I seem to have gotten too deeply in the matter.",
+      "docking_complete": "It looks like someone's repairs are completed♪",
+      "ship_construction": "According to the data, there seems to be a new ship launching, yeah?",
+      "return_from_sortie": "The fleet's back, could I have an interview?",
+      "start_a_sortie": "1st Expeditionary Fleet, sallying forth!",
+      "battle_start": "Take a goood look",
+      "attack": "The enemy still hasn't noticed us!",
+      "night_battle": "Alright! I'm gonna pursue too!",
+      "night_attack": "Searching, barrages, torpedoes - leave them all to me!",
+      "artillery_spotting": "Searching, barrages, torpedoes - leave them all to me!",
+      "night_special_attack_modifier_cutin_at_night_combat": "Searching, barrages, torpedoes - leave them all to me!",
+      "support_expedition_team_arrival": "Searching, barrages, torpedoes - leave them all to me!",
+      "mvp": "Happy to be of service, thanks again.",
+      "minor_damaged1": "Crap!",
+      "minor_damaged2": "F-ff..",
+      "moderately_damaged": "Firepower... Is firepower just not enough, I wonder...",
+      "sunk": "Sunk, huh... I wanted to sink at Kure...."
+    },
+    "hourly": {
+    }
+  }
+}

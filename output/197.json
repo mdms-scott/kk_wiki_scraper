@@ -1,0 +1,45 @@
+{
+  "197": {
+    "name": "Souryuu Kai Ni",
+    "dialogue": {
+      "introduction": "I'm aircraft carrier Souryuu. If you're making a carrier task force, count me in!",
+      "library_intro": "Aircraft carrier Souryuu. Starting from the Pearl Harbor attack, an important battle of the war, I became the flagship. Huh? Midway? What's that? Is it tasty?",
+      "secretary1": "Umm, what is it?",
+      "secretary2": "Uh, um, the Type 99 CDBs'll fall out...",
+      "secretary3": "Excuse me, it'll interrupt the landing drill if you shake the ship too much...",
+      "secretarymarried": "I'm glad.",
+      "wedding": "I'm… working hard, right? I'm being helpful, yeah? Hey, Admiral… what do you think of me?",
+      "show_players_score": "There's a telegram for you, Admiral.",
+      "joining_a_fleet": "The Carrier Task Force is launching!",
+      "equipment1": "Thanks. With this, I won't lose to Hiryuu!",
+      "equipment2": "Nice. Now I'm totally battle-ready.",
+      "equipment3": "I'm glad.",
+      "expedition_selection": "I'm glad.",
+      "resource_collection": "I'm glad.",
+      "instant_repair": "I'm glad.",
+      "development": "I'm glad.",
+      "supply": "Thanks, with this I won't lose to Hiryuu.",
+      "docking_minor_damage": "Excuse me, I'm going to fix my make-up real quick.",
+      "docking_moderate_damage": "Oh, my flight deck... I'll be in for a while...",
+      "docking_complete": "The repairs on the docked ship are completed.",
+      "ship_construction": "There's a new force in the fleet.",
+      "return_from_sortie": "The fleet has returned to the base.",
+      "start_a_sortie": "The aircraft are well-trained. Expect great things!",
+      "battle_start": "Attack force, launch!",
+      "air_battle": "Right, let's go for the big ones!",
+      "attack": "Take care of the anti-air guard, too!",
+      "night_battle": "It's payback time now. All aircraft, launch!",
+      "mvp": "The glory of the First Carrier Task Force does not waver!",
+      "minor_damaged1": "No no no!",
+      "minor_damaged2": "Hit on flight deck!? No way, it's going to blow!",
+      "moderately_damaged": "Why is it the flight deck again?! It hurts!",
+      "sunk": "The fire on the flight deck, it won't go out... Sorry...",
+      "new_year_2015": "Admiral, Happy New Year! This year, the 2nd Carrier Division will be in your care again!",
+      "valentines_day_2015": "Here you go, Admiral. Some chocolates from me, too. Don't eat too much just because you got a lot, okay?",
+      "second_anniversary_2015": "Congratulation to you, Admiral! And to everybody else too! We're going to celebrate today right? Time to open the canteen!",
+      "christmas_2015": "Yay, it's Christmas! Isn't it great? Christmas trees, chicken...I love this atmosphere!"
+    },
+    "hourly": {
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "1321": {
+    "name": "Natori Kai",
+    "dialogue": {
+      "introduction": "I'm called Natori... I'll do my best not to trouble you!",
+      "library_intro": "Third ship of the Nagara-class, Natori. I'm a bit of an older model, but there is much use for a high-speed light cruiser too... Y-yes, a Destroyer squadron, it'd be best if I was assigned to one, please. I-I'll do my best!",
+      "secretary1": "Um... W-what is it?",
+      "secretary2": "Wha... An order?",
+      "secretary3": "T-this... this is 'psyching up', isnt it.... Do your best..! Everybody!",
+      "secretarymarried": "Yeah! Then... that's all from me...",
+      "wedding": "The Admiral doesn't really like fighting as well, it makes me feel at ease. For the Admiral, no, for y-you… I'll keep doing my best.",
+      "show_players_score": "A letter... for the Admiral...",
+      "joining_a_fleet": "You called for me... Eh!? Sortie!?",
+      "equipment1": "Er, um... Thank you!",
+      "equipment2": "Modernization... sorry! Even though I'm old...",
+      "equipment3": "Yeah! Then... that's all from me...",
+      "expedition_selection": "Yeah! Then... that's all from me...",
+      "resource_collection": "Yeah! Then... that's all from me...",
+      "instant_repair": "Yeah! Then... that's all from me...",
+      "development": "Yeah! Then... that's all from me...",
+      "supply": "Er, um... Thank you!",
+      "docking_minor_damage": "Just... a small repair...",
+      "docking_moderate_damage": "It's going to take a while to recover...",
+      "docking_complete": "The repair is complete. And, that's all...",
+      "ship_construction": "A new friend... well... that's all from me...",
+      "return_from_sortie": "The operation is complete and the fleet has returned. Then... that's all from me...",
+      "start_a_sortie": "Destroyer squadron... at-... attack!",
+      "battle_start": "E-enemy spotted... wait, it's a real battle!?",
+      "attack": "Please hi~t!",
+      "night_battle": "Night battle.... I'm good at them but... I...",
+      "night_attack": "Surface action... it'll be okay... I've practiced for this...",
+      "artillery_spotting": "Surface action... it'll be okay... I've practiced for this...",
+      "night_special_attack_modifier_cutin_at_night_combat": "Surface action... it'll be okay... I've practiced for this...",
+      "support_expedition_team_arrival": "Surface action... it'll be okay... I've practiced for this...",
+      "mvp": "Eh!? I was the one who did the best...!? You're going to praise me...? Thank you...",
+      "minor_damaged1": "Waa! Nooo...",
+      "minor_damaged2": "Hieeeee! I-I'm on fire? Help meeeee!",
+      "moderately_damaged": "Everyone... where did you all go...? *cries*",
+      "sunk": "I've sunk a lot of ships already... I guess... this would have happened sooner or later..."
+    },
+    "hourly": {
+    }
+  }
+}

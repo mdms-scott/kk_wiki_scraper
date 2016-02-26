@@ -32,7 +32,7 @@ class KkWikiScraper
     tables = all("TABLE.wikitable.typography-xl-optout")
 
     tables.each do |table|
-      table.all("TR").drop(retry_id).each_with_index do |tr, i|
+      table.all("TR").each_with_index do |tr, i|
         tds = tr.all("TD")
         unless tds.empty? || tds[0].text.nil? || tds[0].text == ''
           id = tds[0].text
@@ -65,7 +65,7 @@ class KkWikiScraper
       end
 
       tables.each do |table|
-        scrape_dialogue_table(table, id)
+        scrape_dialogue_table(table, id, name)
       end
 
       File.open("output/#{id}.json", "w") do |f|
@@ -75,12 +75,12 @@ class KkWikiScraper
       print " Done!"
       puts ''
     rescue Capybara::Poltergeist::StatusFailError
-      puts "TIMED OUT AND SHIT AUGH ON ID #{id} index #{index}"
+      puts "TIMED OUT ON ID #{id} INDEX #{index}"
       build_index(index)
     end
   end
 
-  def scrape_dialogue_table table, id
+  def scrape_dialogue_table table, id, name
     table_type = case table.all("TH").first.text
       when 'Event' then :dialogue
       when 'Time'  then :hourly
@@ -98,7 +98,7 @@ class KkWikiScraper
           end
         else
           # key map to multiple and then select based on match /kai/kai ni/zwei/drei/etc
-          @hash[id][table_type][parameterize_id(tds.first.text).to_sym] = tds[2].text
+          @hash[id][table_type][parameterize_id(tds.first.text).to_sym] = tier_line(dialogue_line(tds[2]['innerText']), ship_tier?(name))
         end
       end
     end
@@ -108,8 +108,26 @@ class KkWikiScraper
     id.gsub(' Play', '').gsub(/[^\w\s]/, '').gsub(/\s+/, ' ').gsub(' ', '_').downcase
   end
 
+  def dialogue_line text
+    result = {}
+    lines = text.split(/\n/) - ['']
+    result[:base] = lines[0].nil? ? '' : lines[0].gsub(' (Kai)', '')
+    lines.drop(1).each do |line|
+      matches = line.match(/(.*)\((Kai|Kai Ni|Kai Ni A|Zwei|Drei)\)/)
+      if matches.to_a.empty?
+        result[:base] += (' ' + line)
+      else
+        result[matches[2].downcase.gsub(' ', '_').to_sym] = matches[1].strip
+      end
+    end
+
+    result
+  end
+
   def ship_tier? name
-    if name.match(/Kai Ni/)
+    if name.match(/Kai Ni A/)
+      return :kai_ni_a
+    elsif name.match(/Kai Ni/)
       return :kai_ni
     elsif name.match(/Kai/)
       return :kai
@@ -119,6 +137,55 @@ class KkWikiScraper
       return :drei
     else
       return :base
+    end
+  end
+
+  # Wow this is super ugly
+  def tier_line text, tier
+    if tier == :kai_ni_a
+      if text[:kai_ni_a]
+        return text[:kai_ni_a]
+      elsif text[:kai_ni]
+        return text[:kai_ni]
+      elsif text[:kai]
+        return text[:kai]
+      else
+        return text[:base]
+      end
+    elsif tier == :kai_ni
+      if text[:kai_ni]
+        return text[:kai_ni]
+      elsif text[:kai]
+        return text[:kai]
+      else
+        return text[:base]
+      end
+    elsif tier == :kai
+      if text[:kai]
+        return text[:kai]
+      else
+        return text[:base]
+      end
+    elsif tier == :zwei
+      if text[:zwei]
+        return text[:zwei]
+      elsif text[:kai]
+        return text[:kai]
+      else
+        return text[:base]
+      end
+    elsif tier == :drei
+      if text[:drei]
+        return text[:drei]
+      elsif text[:zwei]
+        return text[:zwei]
+      elsif text[:kai]
+        return text[:kai]
+      else
+        return text[:base]
+      end
+    else
+      return text[:base]
     end
   end
 

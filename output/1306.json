@@ -1,0 +1,47 @@
+{
+  "1306": {
+    "name": "Isonami Kai",
+    "dialogue": {
+      "introduction": "U-um... my name is Isonami. Pleased to meet you.",
+      "library_intro": "Ninth ship of the special-type destroyers, Isonami. Though I participated in many different battles, after getting damaged, I ended up in the marine guard and rear patrol. I'll do my best!",
+      "secretary1": "Ah, yes... um... I'll do my best.",
+      "secretary2": "Yes, Admiral. Do you need help with anything?",
+      "secretary3": "U-um... that's... embarrassing...",
+      "secretarymarried": "I'm very happy.",
+      "wedding": "Umm…. Admiral… do you have a girlfriend?.... Oh, so that's it. Fufu, hmm~ I see~♪",
+      "show_players_score": "Admiral, there seems to be a message for you.",
+      "joining_a_fleet": "Headin' out!",
+      "equipment1": "With this, I can work harder with this right...?",
+      "equipment2": "Thank you...! I'm very happy...",
+      "equipment3": "I'm very happy...",
+      "expedition_selection": "I'm very happy...",
+      "resource_collection": "I'm very happy...",
+      "instant_repair": "I'm very happy...",
+      "development": "I'm very happy...",
+      "supply": "With this, can I work even harder?",
+      "docking_minor_damage": "I'm a bit tired...",
+      "docking_moderate_damage": "Is it ok if I take a short paid vacation.... Oh, no, it's nothing.",
+      "docking_complete": "Um..looks like a ship has been fully repair.",
+      "ship_construction": "Ah. A new comrade is here, I wonder if she'll be my friend...?",
+      "return_from_sortie": "Somehow... the operation is complete.",
+      "start_a_sortie": "It's time to sortie... Yes! I'll do my best...!",
+      "battle_start": "Fiiiire...!",
+      "attack": "Please hit...!",
+      "night_battle": "This is where, the time I exert my best...!",
+      "night_attack": "I'm sorry!",
+      "artillery_spotting": "I'm sorry!",
+      "night_special_attack_modifier_cutin_at_night_combat": "I'm sorry!",
+      "support_expedition_team_arrival": "I'm sorry!",
+      "mvp": "I can do it if I try! I'm so happy!",
+      "minor_damaged1": "Kya!",
+      "minor_damaged2": "Iya!",
+      "moderately_damaged": "Kyaa!",
+      "sunk": "'Sinking'...me..? No... not me...",
+      "christmas_2014": "So pretty... that Christmas tree... I see, so it's that time of the year again... *sighs*...",
+      "valentines_day_2015": "Admiral....Admiral! Ah, um, please accept this! H-h-here!",
+      "rainy_season_2015": "It's the rainy season. It is somewhat calming, so I feel that the rainy season has its up-side. What, Miyuki-chan? That's not it? Eh?!"
+    },
+    "hourly": {
+    }
+  }
+}

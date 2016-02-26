@@ -1,0 +1,42 @@
+{
+  "1385": {
+    "name": "Houshou Kai",
+    "dialogue": {
+      "introduction": "Aircraft carrier, Houshou. Although I'm inexperienced, I look forward to your guidance.",
+      "library_intro": "I am aircraft carrier Houshou. Built as CV from the beginning, I'm the world's first aircraft carrier. I am a petite ship, but I'll do my best.",
+      "secretary1": "Shall we have some tea?",
+      "secretary2": "You must be so tired. Should I prepare the bath? Or dinner? Or... hehe, just kidding.",
+      "secretary3": "My dream? Well... I'd like to open a little restaurant someday with you... Oh, what am I saying! Sorry, please forget it.",
+      "secretaryidle": "Admiral, I'll stay here, so please tell me to support you whenever you need my help.",
+      "secretarymarried": "Admiral, thank you for your long service. Occasionally, take a relaxing break please.",
+      "wedding": "Someday... Someday, with just the two of us, I would like to take a laid-back sea cruise together.",
+      "show_players_score": "There's a message for you, Admiral.",
+      "joining_a_fleet": "Actual combat...? I guess that's inevitable.",
+      "equipment1": "I'm sorry, for you to be strengthening my armaments is...",
+      "equipment2": "Isn't this too... fancy for me?",
+      "equipment3": "All right!",
+      "expedition_selection": "All right!",
+      "resource_collection": "All right!",
+      "instant_repair": "All right!",
+      "development": "All right!",
+      "supply": "Admiral, thank you very much.",
+      "docking_minor_damage": "Yes, I'll take a little rest.",
+      "docking_moderate_damage": "I shouldn't be the one acting recklessly.",
+      "docking_complete": "A girl with fixed outfit has returned.",
+      "ship_construction": "It looks like a new girl is here!",
+      "return_from_sortie": "It was a busy day. The fleet is back.",
+      "start_a_sortie": "Houshou will commence action!",
+      "battle_start": "Wind direction... Check! Air unit, take off!",
+      "air_battle": "We can't be doing exercises forever!",
+      "attack": "This is an actual combat, not an exercise!",
+      "night_battle": "I shall do it when I must!",
+      "mvp": "What... Really? It's my pleasure to have been of some help to you!",
+      "minor_damaged1": "Uhn!? My flight deck...!",
+      "minor_damaged2": "Eek!",
+      "moderately_damaged": "I'm not going to sink like this!",
+      "sunk": "Even I... sink as well, huh..."
+    },
+    "hourly": {
+    }
+  }
+}

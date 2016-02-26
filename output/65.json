@@ -1,0 +1,44 @@
+{
+  "65": {
+    "name": "Hiyou",
+    "dialogue": {
+      "introduction": "My name is Izumo Ma... No, Hiyou. I'm an aircraft carrier. Pleased to meet you, Admiral!",
+      "library_intro": "I'm Hiyou! Converted from the Northern line passenger liner 'Izumo-maru' into a carrier. But, I was able to operate at the same level as a full aircraft carrier. It's the truth!",
+      "secretary1": "What? I'm busy...",
+      "secretary2": "Excellent timing, you can help with the aircraft maintenance. There's just so much to do...",
+      "secretary3": "Since you have so much free time, you can check the elevator's hydraulics. It's in bad shape...",
+      "secretaryidle": "I have not given up the San Francisco route. If there is peace... eventually, I'm sure...",
+      "secretarymarried": "Ooooh♪",
+      "wedding": "A-ah, somehow fleet work is tiring… Ah, sorry to be grumbling to Admiral… I-it's okay?... Why…?",
+      "show_players_score": "It seems there's a message for Admiral, I wonder what it is~",
+      "joining_a_fleet": "Now then, Hiyou-class aircraft carrier's setting off!",
+      "equipment1": "What's that, what's that? Power-Up? How nice~",
+      "equipment2": "I was originally supposed to be a commercial cruise ship though... Oh well.",
+      "equipment3": "Ooooh~",
+      "expedition_selection": "Ooooh~",
+      "resource_collection": "Ooooh~",
+      "instant_repair": "Ooooh~",
+      "development": "Ooooh~",
+      "supply": "What's that, what's that? Power-Up? How nice~",
+      "docking_minor_damage": "I just don't have time to dock...",
+      "docking_moderate_damage": "Head into the dock!? I'm so tired of that....",
+      "docking_complete": "Repairs are complete.",
+      "ship_construction": "A ship has just launched.",
+      "return_from_sortie": "The battle, it has been finished.",
+      "start_a_sortie": "Where do we go next? The Aleutian trench?",
+      "battle_start": "Attack wing, launch!",
+      "air_battle": "Even if my armor is slightly thin~!",
+      "attack": "Equip all airplanes! Now, take-off!",
+      "night_battle": "Now then, I'll take revenge for Midway!",
+      "mvp": "See? A remodeled carrier isn't weak, isn't it? We can do it!",
+      "minor_damaged1": "Aaah!",
+      "minor_damaged2": "Fire on the flight deck? Fire pumps, hurry!",
+      "moderately_damaged": "The fire pump failed...what do you mean....",
+      "sunk": "The blaze couldn't be...extinguished. I'll go on too...",
+      "second_anniversary_2015": "I see, today is a special day. Junyou, you're already red... how much are you going to drink...?",
+      "christmas_2015": "I-is it Christmas? I wonder if my dress is still here... may I wear it, now?"
+    },
+    "hourly": {
+    }
+  }
+}

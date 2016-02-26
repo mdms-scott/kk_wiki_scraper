@@ -1,0 +1,46 @@
+{
+  "1336": {
+    "name": "Ikazuchi Kai",
+    "dialogue": {
+      "introduction": "I'm Ikazuchi! Not 'Kaminari'! Please take care of that part too, okay!",
+      "library_intro": "Together with my fellow destroyer Inazuma at the Battle of Surabaya, we rescued the survivors of the sunk enemy's ships. I think that strength just isn't enough. Don't you agree, Commander!?",
+      "secretary1": "You look down... That's no good, you know?",
+      "secretary2": "Commander, I'm here for you!",
+      "secretary3": "Yeah, you can rely on me all you want!",
+      "secretaryidle": "Oh, Isn't there anything you have to do? Well…… you may count on me more!",
+      "secretarymarried": "Commander, you're alright. Of course, it's because I'm beside you!",
+      "wedding": "Hey Commander? If I wasn't here, there wouldn't be a fleet, right? Yeah?",
+      "show_players_score": "A letter's arrived for you, Commander. Can I see it?",
+      "joining_a_fleet": "Yes, commander! Here I go!",
+      "equipment1": "Ta-dah! Power up!",
+      "equipment2": "How's the improved me's charm? Eh? You didn't notice? Meanie~!",
+      "equipment3": "I'm going to help!",
+      "expedition_selection": "I'm going to help!",
+      "resource_collection": "I'm going to help!",
+      "instant_repair": "I'm going to help!",
+      "development": "I'm going to help!",
+      "supply": "It's fine for you to resupply me more!",
+      "docking_minor_damage": "Taking a quick break~!",
+      "docking_moderate_damage": "Look's like repairs will take a while, sorry...",
+      "docking_complete": "The ship gotten back from repairing is here.",
+      "ship_construction": "A new ship is done. Let's get her to the front quickly.",
+      "return_from_sortie": "The fleet's back, thanks for the hard work!",
+      "start_a_sortie": "Ikazuchi will fight for the Commander's sake!",
+      "battle_start": "Fiiiire!",
+      "attack": "You think an attack like that's gonna hit?",
+      "night_battle": "Not saying the Tokyo Express is bad, but combat is great!",
+      "night_attack": "If you're gonna run, it's now or never!",
+      "artillery_spotting": "If you're gonna run, it's now or never!",
+      "night_special_attack_modifier_cutin_at_night_combat": "If you're gonna run, it's now or never!",
+      "support_expedition_team_arrival": "If you're gonna run, it's now or never!",
+      "mvp": "Did they think they could challenge the mighty Ikazuchi? Right, commander? Huh? Are you listening?",
+      "minor_damaged1": "Aaa! Where'd it come from!?",
+      "minor_damaged2": "Owwww~!",
+      "moderately_damaged": "What, already! Ikazuchi will still be okay!",
+      "sunk": "Commander...where are you...? I can't hear your voice anymore...",
+      "fall_2015": "Ikazuchi is going to work a lot harder for the commander, yeah?...Eh, you're happy?"
+    },
+    "hourly": {
+    }
+  }
+}

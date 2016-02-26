@@ -1,0 +1,48 @@
+{
+  "1339": {
+    "name": "Nenohi Kai",
+    "dialogue": {
+      "introduction": "Ye~s! It's Nenohi. Have you memorized my name? hey? Hey~!",
+      "library_intro": "I'm Nenohi, second ship of the Hatsuharu class built under the Maru-1 program. I'm working hard to organize many things for my 21st Destroyer Corps sister ships, such as Hatsuharu sister ships. What? Submarines ...? I REALLY hate them!",
+      "secretary1": "They call me Nenohi! Nenohi! Neh-Noh-Hee!",
+      "secretary2": "It's Nenohi♪ Ne-no-hi~ Neh-Noh-Hee~",
+      "secretary3": "Admiral, don't you want to be more in sync with me?",
+      "secretaryidle": "Ahgaa~ somehow Nenohi, is bored... I'll admit that I'm bored. Let's do something Admiral, anything♪",
+      "secretarymarried": "Hey, Nenohi's worried about you too, you know? Admiral, let's take a break every now and then, okay? Nenohi will rest too～♪",
+      "wedding": "Hey, do you know day is today? ...Gee, it's Nenohi! No, that's no it, it's the day Nenohi will confess. To who, you asked? Admiral, you meanie!",
+      "show_players_score": "Admiral, Nenohi wanna look at the report too. Oh oh, Oooooh~",
+      "joining_a_fleet": "Okay, I've been waiting for it! Nenohi, setting sail!",
+      "equipment1": "Woohoo, I feel light!",
+      "equipment2": "I wonder what day is today?",
+      "equipment3": "Nenohi feels like she has become stronger!",
+      "expedition_selection": "Nenohi feels like she has become stronger!",
+      "resource_collection": "Nenohi feels like she has become stronger!",
+      "instant_repair": "Nenohi feels like she has become stronger!",
+      "development": "Nenohi feels like she has become stronger!",
+      "supply": "Supplies~ Nenohi's impressed!",
+      "docking_minor_damage": "Aaah... that hits the spot.",
+      "docking_moderate_damage": "Please let Nenohi sleep for a while.",
+      "ship_construction": "A new member has arrived!",
+      "return_from_sortie": "The fleet has returned. Thanks for your hard work~",
+      "start_a_sortie": "Okay, I've been waiting for it! Nenohi, setting sail!",
+      "battle_start": "Nenohi, vigorously engaging! Fire!",
+      "attack": "Take that!",
+      "night_battle": "USELESS! USELESS! USELESS~!",
+      "night_attack": "Nenohi's attack... Nenohi attack!",
+      "artillery_spotting": "Nenohi's attack... Nenohi attack!",
+      "night_special_attack_modifier_cutin_at_night_combat": "Nenohi's attack... Nenohi attack!",
+      "support_expedition_team_arrival": "Nenohi's attack... Nenohi attack!",
+      "mvp": "Mmhm... you give up yet? Nenohi has more than just looks, you know!",
+      "minor_damaged1": "Argh... how frustrating...",
+      "minor_damaged2": "Hyan!",
+      "moderately_damaged": "Shooting at Nenohi, what a meanie!",
+      "sunk": "Sorry... Admiral... I'll... leave first...",
+      "christmas_2014": "Wah! It's Christmas, Christmas! Nenohi loves Christmas! ... So, what day does Christmas fall on, again...?",
+      "new_year_2015": "New year! Happy New Year! Regards for this year! Yes! Please take care of me this year too. Ok?",
+      "second_anniversary_2015": "What day is it? Yep, it's Nenohi... wait, it's a special day. I did it!",
+      "setsubun_2016": "If it's February, it's got to be Nenohi.... I mean, Setsubun-- Setsubun. I'll throw the beans--, too!"
+    },
+    "hourly": {
+    }
+  }
+}

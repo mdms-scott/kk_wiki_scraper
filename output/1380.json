@@ -1,0 +1,45 @@
+{
+  "1380": {
+    "name": "Hiryuu Kai",
+    "dialogue": {
+      "introduction": "I'm aircraft carrier Hiryuu. Leave the carrier battles to me, I can fight on against any and all adversity.",
+      "library_intro": "Hiryuu-class aircraft carrier, Hiryuu. Huh? Am I not an improved version of the Souryuu-class, you say? Don't worry about the details. More importantly, scouting is paramount. In carrier warfare, the first to strike wins! Don't let pride blind you. Let's carefully, and also boldly, fight on through!",
+      "secretary1": "Hm? Has an enemy carrier appeared?",
+      "secretary2": "Er, don't (do that)! The planes will drop off.",
+      "secretary3": "Tamon-maru is going get mad at you.",
+      "secretarymarried": "How's that?",
+      "wedding": "Sometimes… yeah, sometimes… you can forget about the fighting, you know? Hey, look over here. Yeah, that smile of yours is lovely♪",
+      "show_players_score": "Looks like the Red Brick has a message for you.",
+      "joining_a_fleet": "Right! 2nd Carrier Division, sortieing!",
+      "equipment1": "Yes, with this we won't lose to the 1st Carrier Division.",
+      "equipment2": "All right! I can continue fighting on with this!",
+      "equipment3": "How's that?",
+      "expedition_selection": "How's that?",
+      "resource_collection": "How's that?",
+      "instant_repair": "How's that?",
+      "development": "How's that?",
+      "supply": "All right! I can fight on with this!",
+      "docking_minor_damage": "I'm going to do some repair on my flight deck.",
+      "docking_moderate_damage": "Good grief. Well sometimes you just need go into dock and take a rest.",
+      "docking_complete": "Is a communique of repairs completion from the Arsenal.",
+      "ship_construction": "Construction completed. Hopefully she's a good ship.",
+      "return_from_sortie": "The fleet has returned. Is Operation MI next?",
+      "start_a_sortie": "We'll strike thoroughly. Baring in mind to scout properly.",
+      "battle_start": "First wave, commence launching!",
+      "air_battle": "Even if I am the last one alive, I'll continue fighting!",
+      "attack": "Contact with enemy vessels, get ready for battle. Second attack phase required. Hurry! Alright Tomonaga Squadron, I'm counting on you.",
+      "night_battle": "Alright! Tomonaga Squadron, I'm counting on you!",
+      "mvp": "How was that! Were you watching me, Tamon-maru?",
+      "minor_damaged1": "This is only just a scratch!",
+      "minor_damaged2": "Ouch! Are we still able to take off and land?",
+      "moderately_damaged": "I'm hit, watch out for explosions.",
+      "sunk": "I'm going to sink... Time to have a drink with the moon...",
+      "new_year_2015": "Happy New Year! Admiral, please take care of the 2nd Carrier Division this year too, okay? Okay?",
+      "valentines_day_2015": "Huhu~m♪ Admiral, I have some chocolates for you. Chocolates♪ They're homemade, you know? Make sure you enjoy them♪",
+      "second_anniversary_2015": "So we're gonna celebrate today! Yesss! Hiryuu want to celebrate with Admiral next year too... okay!?",
+      "christmas_2015": "Yeah, it's Christmas, isn't it? Aren't cake and turkey just delicious? Huh? Zuikaku? Why are you mad? Oh-"
+    },
+    "hourly": {
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "1324": {
+    "name": "Naka Kai",
+    "dialogue": {
+      "introduction": "The fleet's idol, Naka-chan!Nice to meet you!",
+      "library_intro": "Selected as the Centre of the 4thDesRon, it's Naka-chan! Doing lots of work, from guarding transports to doing the Tokyo Express from Truk... Eh? Was it a Provincial tour, you ask? That is SO not what I was doing!",
+      "secretary1": "Good morning~!",
+      "secretary2": "Naka-chan's smile~!",
+      "secretary3": "Naka-chan belongs to everyone, so don't touch her too much, okay?",
+      "secretaryidle": "Hrm. The next job's location.. wha, today's an off day... I see...",
+      "secretarymarried": "Thank you~!",
+      "wedding": "Thank you for all the support! I'm gonna work really, really hard for the Admiral! Kira~n☆",
+      "show_players_score": "You've got a call from work, Admiral!",
+      "joining_a_fleet": "Another job?",
+      "equipment1": "Naka-chan, power up!",
+      "equipment2": "I've become more and more charming! Kyaha~",
+      "equipment3": "Thank you~!",
+      "expedition_selection": "Thank you~!",
+      "resource_collection": "Thank you~!",
+      "instant_repair": "Thank you~!",
+      "development": "Thank you~!",
+      "supply": "Craft service, yeah? Time to ea~t!",
+      "docking_minor_damage": "Don't look at the backstage, okay?",
+      "docking_moderate_damage": "I will be off for a while~! Good night.",
+      "docking_complete": "The outfit has been repaired!",
+      "ship_construction": "A new shipdaughter has came~ I can't wait to see her~",
+      "return_from_sortie": "Job is done! Thanks for your hard work!",
+      "start_a_sortie": "Naka-chan is sortieing to the scene~",
+      "battle_start": "My skin gets all rough on location~",
+      "attack": "Kaboom!",
+      "night_battle": "Naka-chan's the centre! The number one highlight!",
+      "night_attack": "Thank you as always~!",
+      "artillery_spotting": "Thank you as always~!",
+      "night_special_attack_modifier_cutin_at_night_combat": "Thank you as always~!",
+      "support_expedition_team_arrival": "Thank you as always~!",
+      "mvp": "Even if the game is boring, please don't hate Naka-chan!",
+      "minor_damaged1": "Kyaa! Not the face~!",
+      "minor_damaged2": "It hurts! i told you, it hurts!",
+      "moderately_damaged": "Even if it is so, Naka-chan will not swerve from her path!",
+      "sunk": "Eh? Naka is sinking? Sinking... is not a setting an idol should be in...",
+      "rainy_season_2015": "Even in the Rainy Season, Naka-chan is definitely the center! Naka-chan teruteru-bouzu is, of course, the center too!",
+      "early_summer_2015": "It's summer! Summer! The summer of Naka-chan's summer concert! Alright, I'm gonna sing! My costume! My costume!",
+      "christmas_2015": "The turkey and the Christmas cake are both delicious!"
+    },
+    "hourly": {
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "66": {
+    "name": "Junyou",
+    "dialogue": {
+      "introduction": "Ex-merchant ship aircraft carrier, Junyo~! Woohoo!",
+      "library_intro": "Wartime remodeling based on the Luxury liner, Kashiwara Maru. The renovated appearance is the aircraft carrier, Jun'you. I fought properly, and survived until the end. Ain't I surprisingly capable ?",
+      "secretary1": "Ah~! Admiral, good work♪ Eh? No...I haven't been drinking~. I'm totally sober~.",
+      "secretary2": "Aaaadmiral~. If you're free, come help out~. Hiyou an' me, we need some planes built, ya know?",
+      "secretary3": "Wait a sec! I can hear a ba~d sound... it's not a enemy spy plane, is it?",
+      "secretaryidle": "Ahh man, I'm bored. Oh well, I'll drink! Let's see... maybe I'll have hot sake...",
+      "secretarymarried": "Yo~ Admiral, shouldn't we have a drink together some time? I got some really good sake. Ah, don't worry I have snacks too.",
+      "wedding": "I'm worked hard so that I wouldn't lose to those aircraft carriers. You're the only Admiral that gets that, you know. Hey, gimme a kiss~.",
+      "show_players_score": "There's a message for the Admiral. What could it be?",
+      "joining_a_fleet": "Let's do this! Jun'you's heading out!",
+      "equipment1": "Nice~ Surprisingly, I'm capable~",
+      "equipment2": "S-so cool! I'm gonna fall in love with myself~!",
+      "equipment3": "Ready to go, ready to go!",
+      "expedition_selection": "Ready to go, ready to go!",
+      "resource_collection": "Ready to go, ready to go!",
+      "instant_repair": "Ready to go, ready to go!",
+      "development": "Ready to go, ready to go!",
+      "supply": "Much obliged. And don't forget to supply the canteen either. It's important!",
+      "docking_minor_damage": "It's nothin' major. Just in case, yeah?",
+      "docking_moderate_damage": "Dang, my armour's gettin' a bit thin. With me and Hiyou, there's no helping it.",
+      "docking_complete": "Repairs are finally over!. Let's celebrate my recovery!",
+      "ship_construction": "A new friend has come. Let's have a party.",
+      "return_from_sortie": "The fleet's come back. Good work.",
+      "start_a_sortie": "With me an' Hiyou here, well, we're a Task force, yeah? Yeah!",
+      "battle_start": "Let's go all out! All out!",
+      "air_battle": "Yeah, thas' it. I want Tenzans and Ryuuseis~",
+      "attack": "Heheh. I'm gonna strike with all my force! Eat this!",
+      "night_battle": "Alright, Attack forces, take off!",
+      "mvp": "Wha? Man, I really did it, didn't I? Carrier-based planes really are the best. Hehe.",
+      "minor_damaged1": "Uh oh!",
+      "minor_damaged2": "Told ya' my armour was thin. Really!",
+      "moderately_damaged": "Awa! I don't like this!",
+      "sunk": "H-hey, hey now, I'm sinking? Really?",
+      "second_anniversary_2015": "Ooh, today's an special day! Good, let's open some sake and Woohoo!"
+    },
+    "hourly": {
+    }
+  }
+}

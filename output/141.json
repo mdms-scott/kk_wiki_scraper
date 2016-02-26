@@ -1,0 +1,45 @@
+{
+  "141": {
+    "name": "Isuzu Kai Ni",
+    "dialogue": {
+      "introduction": "It's Isuzu, remodelled. Leave anti-submarine and anti-air roles to me!",
+      "library_intro": "Isuzu was built in the Taisho period (1912-1926) as the second of the Nagara Class light cruisers. As you might expect my speed is top-rate; the Admirals that commanded me in history include Admiral Yamamoto Isoroku, Admiral Yamaguchi Tamon, and many other pillars of the Navy. Amazing, huh?",
+      "secretary1": "Idiot, do you want me to shoot you?",
+      "secretary2": "Are there orders for Isuzu?",
+      "secretary3": "Huh? I got distracted. What was it you wanted?",
+      "secretaryidle": "I-It's not like I'm bored! I'm not! Okay!? (Kai Ni)",
+      "secretarymarried": "Idiot, don't worry so much. It's fine to take a break.",
+      "wedding": "The admirals I've had as my partners have all had great success. Isoroku, Tamon... I wonder what will become of you? I'm looking forward to it.",
+      "show_players_score": "There's a report for you. Read it well.",
+      "joining_a_fleet": "Isuzu, sortieing! Continue!",
+      "equipment1": "Heheh, that'll do. Now I'm more ready to fight!",
+      "equipment2": "That modernization... saved me. Now I can work harder!",
+      "equipment3": "Everything is visible to Isuzu.",
+      "expedition_selection": "Everything is visible to Isuzu.",
+      "resource_collection": "Everything is visible to Isuzu.",
+      "instant_repair": "Everything is visible to Isuzu.",
+      "development": "Everything is visible to Isuzu.",
+      "supply": "Oh, supplies... I can fight on with these!",
+      "docking_minor_damage": "Idiot - don't worry so much. I'll be fine with a quick rest.",
+      "docking_moderate_damage": "It's okay, if I rest a little, one way or another I'll be better.",
+      "docking_complete": "A ship has been fully repaired.",
+      "ship_construction": "New forces have been added.",
+      "return_from_sortie": "It seems the fleet has returned to base.",
+      "start_a_sortie": "Well then, I will show you the strength of remodelled Isuzu!",
+      "battle_start": "Preparations complete. Charge!",
+      "attack": "Everything is visible to Isuzu.",
+      "night_battle": "A pursuit battle is Isuzu's speciality!",
+      "night_attack": "Idiot, do you want me to shoot you?",
+      "artillery_spotting": "Idiot, do you want me to shoot you?",
+      "night_special_attack_modifier_cutin_at_night_combat": "Idiot, do you want me to shoot you?",
+      "support_expedition_team_arrival": "Idiot, do you want me to shoot you?",
+      "mvp": "Huh? Isuzu is No.1? Well, that's what you'd normally expect. Ain't it good?",
+      "minor_damaged1": "No way!",
+      "minor_damaged2": "Hey! That hurts!",
+      "moderately_damaged": "It's only the equipment on the surface that's damaged at most. The engines are still fine!",
+      "sunk": "I overdid it slightly, huh...? Nagara, Natori, be well..."
+    },
+    "hourly": {
+    }
+  }
+}

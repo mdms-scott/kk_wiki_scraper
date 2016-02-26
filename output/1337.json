@@ -1,0 +1,46 @@
+{
+  "1337": {
+    "name": "Inazuma Kai",
+    "dialogue": {
+      "introduction": "I'm Inazuma. Pleased to meet you.",
+      "library_intro": "After helping to save the crew of the enemy ship sunk at Surabaya, I fought at Kiska, Solomon, New Guinea and Attu Island one after the other... I did my best...",
+      "secretary1": "Commander, um... you aren't mistaking me for someone else are you?",
+      "secretary2": "I'd prefer not to fight as much as possible.",
+      "secretary3": "Hawawawa, you surprised me!",
+      "secretaryidle": "I really like time of peace like this too, when nothing is happening.",
+      "secretarymarried": "Commander, thanks for the hard work nanodesu. I'll give you a shoulder massage nanodesu.",
+      "wedding": "Commander, you're still here, huh. Eh? You were waiting for me?... Thank you.",
+      "show_players_score": "A letter has arrived.",
+      "joining_a_fleet": "See how Inazuma is when she's serious!",
+      "equipment1": "It looks like my body has become a bit lighter.",
+      "equipment2": "Um... e-excuse me! ...Thank you.",
+      "equipment3": "There are no problems... right?",
+      "expedition_selection": "There are no problems... right?",
+      "resource_collection": "There are no problems... right?",
+      "instant_repair": "There are no problems... right?",
+      "development": "There are no problems... right?",
+      "supply": "Thank you, nanodesu!",
+      "docking_minor_damage": "I'll go fix myself up a little.",
+      "docking_moderate_damage": "Beware of ramming.",
+      "docking_complete": "The repairing has completed.",
+      "ship_construction": "The construction is complete.",
+      "return_from_sortie": "It looks like the fleet has returned.",
+      "start_a_sortie": "1st Fleet, 1st Torpedo Squadron, sortie.",
+      "battle_start": "Nanodesu!",
+      "attack": "Torpedoes loaded!",
+      "night_battle": "If possible, I'd like to save those sunken enemy ships as well...",
+      "night_attack": "I'm going to hit you!",
+      "artillery_spotting": "I'm going to hit you!",
+      "night_special_attack_modifier_cutin_at_night_combat": "I'm going to hit you!",
+      "support_expedition_team_arrival": "I'm going to hit you!",
+      "mvp": "I want to win the war, but I also want to save lives... Is that weird?",
+      "minor_damaged1": "Funyaaaa?!",
+      "minor_damaged2": "Whoa!",
+      "moderately_damaged": "Ouch... this is so embarrassing...",
+      "sunk": "I wish I'll be reborn... into a more peaceful world.",
+      "fall_2015": "U-um... Commander... Yes..."
+    },
+    "hourly": {
+    }
+  }
+}

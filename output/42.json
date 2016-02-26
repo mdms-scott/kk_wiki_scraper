@@ -1,0 +1,44 @@
+{
+  "42": {
+    "name": "Nagara",
+    "dialogue": {
+      "introduction": "Light Cruiser Nagara! Please take good care of me!",
+      "library_intro": "Weighing in as a 5500 ton light cruiser, first ship of the Nagara-class, Nagara! I'm a bit of an old model, but I'm a high-speed torpedo-armed team-leading machine, so I'm just perfect to command destroyers, you know? I even fought hard in the difficult Battle of the Solomons!",
+      "secretary1": "Commander, thanks for the hard work!",
+      "secretary2": "Done my miles for the day!",
+      "secretary3": "The commander is interested too? I've been working on my legs recently...",
+      "secretarymarried": "Yay!",
+      "wedding": "Thank you for always leading us to victory! Nagara also loves the commander!",
+      "show_players_score": "Commander, it's a letter.",
+      "joining_a_fleet": "It's time! Leave it to me!",
+      "equipment1": "Al~right! My condition is excellent!",
+      "equipment2": "Mhm! My body is light. Thank You!",
+      "equipment3": "Yay!",
+      "expedition_selection": "Yay!",
+      "resource_collection": "Yay!",
+      "instant_repair": "Yay!",
+      "development": "Yay!",
+      "supply": "Alright! I'm at peak condition!",
+      "docking_minor_damage": "It's a slight muscle pain.",
+      "docking_moderate_damage": "Sorry... I'm in bad shape.",
+      "docking_complete": "Looks like the repair is complete.",
+      "ship_construction": "Newbies are here!",
+      "return_from_sortie": "The operation's over, the fleet's back.",
+      "start_a_sortie": "Torpedo squadron, sortieing! I'm itching for a fight!",
+      "battle_start": "Enemy ship spotted! Ready for surface action!",
+      "attack": "Slow! Way too slow!",
+      "night_battle": "Pursuing! I won't give you a gap to break through!",
+      "night_attack": "Can you keep up with Nagara's legs?",
+      "artillery_spotting": "Can you keep up with Nagara's legs?",
+      "night_special_attack_modifier_cutin_at_night_combat": "Can you keep up with Nagara's legs?",
+      "support_expedition_team_arrival": "Can you keep up with Nagara's legs?",
+      "mvp": "V-I-C-T-O-R-Y! Vic~to~ry! The sound of success!",
+      "minor_damaged1": "uHyaa!",
+      "minor_damaged2": "I-I was had...! Where...!",
+      "moderately_damaged": "If I had only trained more... Dammit!!",
+      "sunk": "I wanted to run with everyone some more..."
+    },
+    "hourly": {
+    }
+  }
+}
