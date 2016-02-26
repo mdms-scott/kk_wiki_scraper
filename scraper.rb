@@ -12,54 +12,72 @@ class KkWikiScraper
   def initialize
     suppressor = Capybara::Poltergeist::Suppressor.new(patterns: [/.*/])
     Capybara.register_driver :poltergeist do |app|
-      Capybara::Poltergeist::Driver.new(app, :phantomjs_logger => suppressor)
+      Capybara::Poltergeist::Driver.new(app,
+        :phantomjs_logger => suppressor,
+        :timeout => 180,
+        :js_errors => false,
+        :phantomjs_options => [
+          '--load-images=no',
+          '--ignore-ssl-errors=yes'
+        ]
+      )
     end
     Capybara.default_driver = :poltergeist
   end
 
-  def build_index
+  def build_index retry_id=0
     visit INDEX_URL
 
     kanmusu = []
     tables = all("TABLE.wikitable.typography-xl-optout")
 
     tables.each do |table|
-      table.all("TR").first(10).each do |tr|
+      table.all("TR").drop(retry_id).each_with_index do |tr, i|
         tds = tr.all("TD")
         unless tds.empty? || tds[0].text.nil? || tds[0].text == ''
           id = tds[0].text
           name = tds[1].find("A").text
           url = tds[1].find("A")[:href]
-          kanmusu << {id: id, name: name, url: url}
+          kanmusu << {id: id, name: name, url: url, index: i}
         end
       end
     end
 
     kanmusu.each do |waifu|
-      scrape_lines(waifu[:id], waifu[:name], waifu[:url])
+      scrape_lines(waifu[:id], waifu[:name], waifu[:url], waifu[:index])
     end
 
   end
 
-  def scrape_lines id, name, url
-    print "Extracting #{id} - #{name} - URL: #{url}..."
+  def scrape_lines id, name, url, index
+    begin
+      print "Extracting #{id} - #{name} - URL: #{url}..."
 
-    @hash = {id => {:name => name, :dialogue => {}, :hourly => {}}}
+      @hash = {id => {:name => name, :dialogue => {}, :hourly => {}}}
 
-    visit url
+      visit url
 
-    tables = all("TABLE.wikitable.typography-xl-optout")
+      tables = all("TABLE.wikitable.typography-xl-optout")
 
-    tables.each do |table|
-      scrape_dialogue_table(table, id)
+      if page.has_selector?("SPAN#Kai.mw-headline") && ship_tier?(name) == :base
+        tables = tables.to_a
+        tables.delete_at(1)
+      end
+
+      tables.each do |table|
+        scrape_dialogue_table(table, id)
+      end
+
+      File.open("output/#{id}.json", "w") do |f|
+        f.write(JSON.pretty_generate(@hash))
+      end
+
+      print " Done!"
+      puts ''
+    rescue Capybara::Poltergeist::StatusFailError
+      puts "TIMED OUT AND SHIT AUGH ON ID #{id} index #{index}"
+      build_index(index)
     end
-
-    File.open("output/#{id}.json", "w") do |f|
-      f.write(JSON.pretty_generate(@hash))
-    end
-
-    print " Done!"
-    puts ''
   end
 
   def scrape_dialogue_table table, id
@@ -90,7 +108,20 @@ class KkWikiScraper
     id.gsub(' Play', '').gsub(/[^\w\s]/, '').gsub(/\s+/, ' ').gsub(' ', '_').downcase
   end
 
+  def ship_tier? name
+    if name.match(/Kai Ni/)
+      return :kai_ni
+    elsif name.match(/Kai/)
+      return :kai
+    elsif name.match(/Zwei/)
+      return :zwei
+    elsif name.match(/Drei/)
+      return :drei
+    else
+      return :base
+    end
+  end
+
 end
 
-# KkWikiScraper.new.scrape_lines("http://kancolle.wikia.com/wiki/Yamato")
 KkWikiScraper.new.build_index
